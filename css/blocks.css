@@ -1,6 +1,17 @@
 /*------------- #BLOCKS --------------*/
 /*------------- #VARIABLES --------------*/
 /*------------- #BUTTONS --------------*/
+.d-none{
+  display: none !important;
+}
+
+.header--spacer{
+  display: none !important;
+}
+
+.content-wrapper{
+  margin-top: 100px;
+}
 .btn {
   cursor: pointer;
   display: inline-block;
